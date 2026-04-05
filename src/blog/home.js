@@ -76,7 +76,7 @@ export async function render(slug) {
 
   app.innerHTML = `
     <div class="articles-header">
-      <h1>Guias e tutoriais para DEVs</h1>
+      <h1>Guias e Tutoriais para DEVs</h1>
     </div>
 
     <div class="search-bar">

@@ -2,10 +2,10 @@ export function render() {
   document.getElementById("app").innerHTML = `
     <div class="ebook-header">
       <span class="ebook-eyebrow">Kit</span>
-      <h1>Frontend Blueprint</h1>
+      <h1>Roadmaps & Blueprints</h1>
       <p class="ebook-tagline">Projetos reais com código reutilizável.</p>
       <p class="ebook-subtitle">
-        Não é um curso. É um kit prático com projetos completos,
+        Kit prático com projetos completos, guias, checklists, roadmaps, 
         estrutura de pastas profissional e decisões que você aplica direto no seu código.
       </p>
     </div>

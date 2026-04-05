@@ -1,5 +1,5 @@
 import * as Home    from "./blog/home.js"
-import * as Ebook   from "./pages/blueprints.js"
+import * as Ebook   from "./pages/roadmaps.js"
 import * as Contact from "./pages/contact.js"
 import * as Legal   from "./pages/legal.js"
 
