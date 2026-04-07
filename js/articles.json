@@ -12,5 +12,12 @@
     "date": "2026-04-07",
     "tags": ["javascript", "web", "iniciante"],
     "description": "Primeiros passos com JavaScript no navegador: variáveis, funções e manipulação do DOM."
+  },
+   {
+    "slug": "guide-links",
+    "title": "Guias, links e referências Frontend",
+    "date": "2026-04-07",
+    "tags": ["guias", "links", "referencias"],
+    "description": "O cenário do desenvolvimento front-end está em constante evolução, com novas tecnologias, frameworks e metodologias surgindo a todo momento."
   }
 ]
