@@ -9,7 +9,9 @@ function renderFooter() {
     <div class="footer-inner">
       <div class="footer-about">
         <span class="footer-brand">Sobre</span>
-        <p>Projeto desenvolvido por Guilherme Ribeiro.<br>Guias, roadmaps, blueprints, artigos e kits para desenvolvedores.</p>
+        <p>Projeto desenvolvido por Guilherme Ribeiro.
+        <br>Para acessar conteúdo exclusivo, kits, arquivos e PDFs:
+        <br><a href="https://svault.pages.dev" target="_blank" rel="noopener">🔐 SVault</a></p>
       </div>
 
       <div class="footer-col">
