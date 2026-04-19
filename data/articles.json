@@ -1,4 +1,11 @@
 [
+     {
+    "slug": "js-book",
+    "title": "EBOOK JavaScript Guias & Projetos",
+    "date": "2026-04",
+    "tags": ["ebook", "dev", "javascript"],
+    "description": "Cada capítulo foi pensado para quem está começando — sem assumir que você já sabe nada. Você vai construir projetos reais, passo a passo, do ambiente de desenvolvimento até o deploy, com código que você pode mostrar hoje mesmo no seu GitHub."
+  },
    {
     "slug": "coffee-history",
     "title": "☕ História do Café",

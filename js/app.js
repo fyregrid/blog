@@ -12,14 +12,14 @@ function renderFooter() {
       <div class="footer-about">
         <span class="footer-brand">Sobre</span>
         <p>Projeto desenvolvido por Guilherme Ribeiro.</p>
-        <p>↓ Para acessar conteúdo exclusivo: documentos, códigos e projetos
-        <br><a href="https://svault.pages.dev" target="_blank" rel="noopener">🔐 Skill Vault</a></p>
+        <p><br>📘 EBOOK JavaScript Guias&Projetos
+        <br><a href="https://fyregrid.github.io/jsbook" target="_blank" rel="noopener">→ Explorar</a></p>
       </div>
 
       <div class="footer-col">
         <span class="footer-col-title">Contato</span>
         <a href="mailto:topverbs@gmail.com">topverbs@gmail.com</a>
-        <a href="https://fyregrid.github.io/bio" target="_blank" rel="noopener">fyregrid.github.io/bio</a>
+        <a href="https://github.com/fyregrid" target="_blank" rel="noopener">github.com/fyregrid</a>
       </div>
     </div>
     <div class="footer-bottom">
