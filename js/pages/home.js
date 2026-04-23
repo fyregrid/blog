@@ -1,12 +1,8 @@
-// home.js
+// pages/home.js
 // Responsável por: render da home, lista de artigos,
 // busca, estados auxiliares (loading, 404) e nav.
 
 const app = document.getElementById("app");
-
-// ─── ESTADO ATUAL ─────────────────────────────────────────
-// "home" | { slug: string } | "legal"
-let currentView = "home";
 
 // ─── RENDER HOME ──────────────────────────────────────────
 
@@ -75,21 +71,6 @@ function renderHome() {
 }
 
 // ─── ESTADOS AUXILIARES ───────────────────────────────────
-
-function renderNotFound() {
-  app.innerHTML = `
-    <div class="not-found">
-      <p class="not-found-code">404</p>
-      <p>Página não encontrada.</p>
-      <a href="#" id="back-btn">← Voltar para home</a>
-    </div>
-  `;
-  document.title = "404 | grcodev/blog";
-  document.getElementById("back-btn").onclick = (e) => {
-    e.preventDefault();
-    navigate('/');
-  };
-}
 
 function renderLoading() {
   app.innerHTML = `<p class="loading">Carregando…</p>`;

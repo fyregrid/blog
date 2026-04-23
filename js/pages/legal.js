@@ -1,4 +1,4 @@
-// legal.js
+// pages/legal.js
 // Responsável por: renderizar a página de documentos legais
 // (Política de Privacidade, Política de Cookies, Termos de Uso).
 

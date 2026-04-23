@@ -52,7 +52,6 @@ function currentPath() {
   } else if (BASE && path === BASE) {
     path = '/';
   }
-  // Trata acesso direto ao index.html
   if (path === '/index.html') path = '/';
   return path || '/';
 }
