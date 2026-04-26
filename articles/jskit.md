@@ -1,4 +1,4 @@
-# 🛠️ JavaScript Boilerplate Kit  
+# 🛠️ JavaScript Boilerplate Kit + Documentação + README  
 
 Boilerplates prontos para acelerar projetos reais com frontend + backend completo.
 
