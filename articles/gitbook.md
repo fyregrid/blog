@@ -1,7 +1,7 @@
 # EBOOK Manual/Tutorial Git & Visual Studio Code
 
 
-<img src="https://github.com/grcodev/grcodev/releases/download/vault/gitbook.30.png" width="24%" height="24%" style="border-radius:2%;" />
+<img src="https://github.com/grcodev/grcodev/releases/download/vault/gitbook.png" width="24%" height="24%" style="border-radius:2%;" />
 
 
 
