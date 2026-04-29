@@ -19,7 +19,7 @@ const CONFIG = {
   products: [
     {
       icon:  "📦",
-      title: "PACK: EBooks + Boilerplates + Documentação README + DEPLOY",
+      title: "EBooks + Boilerplates + Documentação README + DEPLOY",
       slug:  "pack",
     },   
   ],
