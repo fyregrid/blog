@@ -7,7 +7,7 @@ Base prática para aprender, construir e publicar projetos web do zero. Conteúd
 
 
 
-[→ EBOOK GRATUITO](https://github.com/grcodev/grcodev/releases/vault/JSRoadmap.epub)
+[✔️ EBOOK GRATUITO](https://github.com/grcodev/grcodev/releases/vault/JSRoadmap.epub)
 
 
 
@@ -23,7 +23,7 @@ Aprenda as duas ferramentas essenciais para qualquer Desenvolvedor Web. Neste EB
 
 
 
-[→ Explorar EBOOK Git + VSCode](https://grcodev.github.io/lab/p/bookgit)
+[✔️ EXPLORAR EBOOK GIT + VSCODE](https://grcodev.github.io/lab/p/bookgit)
 
 
 
@@ -40,7 +40,7 @@ Aprenda um fluxo prático para transformar texto simples em conteúdo profission
 <img src="https://github.com/grcodev/grcodev/releases/download/vault/md.png" width="80%" height="80%" style="border-radius:2%;" />
 
 
-[→ Explorar EBOOK Markdown + Pandoc](https://grcodev.github.io/lab/p/bookmd)
+[✔️ EXPLORAR EBOOK MARKDOWN + PANDOC](https://grcodev.github.io/lab/p/bookmd)
 
 
 
@@ -55,7 +55,7 @@ Projetos JavaScript reutilizáveis e publicar soluções online com apresentaç�
 <img src="https://github.com/grcodev/grcodev/releases/download/vault/kit.png" width="80%" height="80%" style="border-radius:2%;" />
 
 
-[→ Explorar JS Boilerplate Kit](https://grcodev.github.io/lab/p/kitjs)
+[✔️ EXPLORAR JS BOILERPLATE KIT](https://grcodev.github.io/lab/p/kitjs)
 
 
 

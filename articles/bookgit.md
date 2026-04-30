@@ -53,7 +53,7 @@ Seleção prática de documentações oficiais, ferramentas úteis e referência
 > PIX / Transferência     
 
 
-[✔️ COMPRAR EBOOK 💬](https://wa.me/5531996981103?text=Quero%20o%20EBook)
+[✔️💬 COMPRAR EBOOK](https://wa.me/5531996981103?text=Quero%20o%20EBook)
 
 
 

@@ -176,7 +176,7 @@ Menos ferramentas pesadas. Mais produção.
 > PIX / Transferência     
 
 
-[✔️ COMPRAR EBOOK 💬](https://wa.me/5531996981103?text=Quero%20o%20EBook)
+[✔️💬 COMPRAR EBOOK](https://wa.me/5531996981103?text=Quero%20o%20EBook)
 
 
 
