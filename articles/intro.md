@@ -1,6 +1,7 @@
 # 📦 EBooks + Boilerplates + Documentação README + DEPLOY  
 
 
+Base prática para aprender, construir e publicar projetos web do zero. Conteúdo direto ao ponto: ferramentas, fluxo de trabalho e execução real. Use o material gratuito como ponto de partida e evolua com consistência.
 
 
 
