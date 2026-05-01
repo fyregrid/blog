@@ -22,7 +22,7 @@
   },
   {
     "slug": "micro-features",
-    "title": "Recomendações de Arquiteturas baseadas em Funcionalidades para Sistemas Frontend",
+    "title": "Recomendações de Arquiteturas baseadas em Funcionalidades para Frontend",
     "date": "2026-04",
     "tags": ["projetos", "frontend", "arquitetura"],
     "description": "Aplicações crescem. Estruturas organizadas por tipo técnico como `components`, `services` e `utils` começam simples, mas rapidamente viram um sistema difícil de navegar."
