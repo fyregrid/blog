@@ -1,4 +1,4 @@
-# EBOOK Manual/Tutorial Git & Visual Studio Code
+# 📘 Manual/Tutorial Completo: Git & Visual Studio Code
 
 
 Aprenda as duas ferramentas essenciais para qualquer Desenvolvedor Web. Neste EBook voce vai aprender a instalar/configurar Git e VSCode, configurar extensões Markdown para VSCode, Deploy básico GitHub Pages, todos os passos básicos para voce começar a criar e desenvolver projetos web com versionamento de código profissional.

@@ -1,4 +1,4 @@
-# Aprenda a criar Livros/EBooks profissionais usando Markdown + Pandoc
+# 📕 Aprenda a criar EBooks profissionais utilizando Markdown + Pandoc
 
 
 
